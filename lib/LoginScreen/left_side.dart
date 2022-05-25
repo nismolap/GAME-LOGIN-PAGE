@@ -85,7 +85,7 @@ class Left_Side extends StatelessWidget {
               Container(
                 height: 18,
               ),
-              FlatButton(
+              MaterialButton(
                 shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(50.0)),
                 color: P4,

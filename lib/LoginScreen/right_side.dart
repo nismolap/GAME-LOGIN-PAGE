@@ -128,7 +128,7 @@ class Right_Side extends StatelessWidget {
                         ),
                         Container(
                           margin: const EdgeInsets.symmetric(vertical: 10),
-                          child: FlatButton(
+                          child: MaterialButton(
                             shape: RoundedRectangleBorder(
                                 borderRadius: BorderRadius.circular(50.0)),
                             color: Colors.white,
